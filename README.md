@@ -1,3 +1,6 @@
+[![todoapp.png](https://i.postimg.cc/1zX4Cm3f/todoapp.png)](https://postimg.cc/Y4cpjwgH)
+
+
 # Todo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
